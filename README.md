@@ -33,3 +33,10 @@
 ### 💳 Payment Analysis
 
 ![Payment Analysis](Images/Payment_Analysis.png)
+
+---
+
+## 📥 Download Project
+
+- Power BI File: `Dashboard/Final_Project.pbix`
+- Dataset: `Dataset/powerbi_finance_dataset_1200_rows.csv`
