@@ -1,2 +1,35 @@
-# Financial-Performance-Dashboard-PowerBI
-Interactive Financial Performance Dashboard built in Power BI with revenue, expense, profit, regional, product, and payment analysis using an interactive multi-page dashboard.
+## 📷 Dashboard Preview
+
+### 🏠 Home
+
+![Home](Images/Home.png)
+
+---
+
+### 📊 Dashboard Overview
+
+![Dashboard](Images/Dashboard.png)
+
+---
+
+### 💰 Financial Analysis
+
+![Financial Analysis](Images/Financial_Analysis.png)
+
+---
+
+### 🌍 Regional Analysis
+
+![Regional Analysis](Images/Regional_Analysis.png)
+
+---
+
+### 📦 Product Analysis
+
+![Product Analysis](Images/Product_Analysis.png)
+
+---
+
+### 💳 Payment Analysis
+
+![Payment Analysis](Images/Payment_Analysis.png)
