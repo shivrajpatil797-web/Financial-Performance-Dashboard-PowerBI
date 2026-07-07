@@ -2,7 +2,7 @@
 
 # 📊 Financial Performance Dashboard
 
-### 🚀 Interactive Business Intelligence Dashboard built using Microsoft Power BI
+###  Interactive Business Intelligence Dashboard built using Microsoft Power BI
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge)
@@ -19,7 +19,7 @@
 
 ---
 
-# 📌 Project Overview
+#  Project Overview
 
 The **Financial Performance Dashboard** is an interactive **Microsoft Power BI** project that provides valuable business insights through dynamic dashboards and KPI visualizations.
 
@@ -27,18 +27,18 @@ It enables users to analyze **Revenue, Expenses, Profit, Regional Performance, P
 
 ---
 
-# 🎯 Objectives
+#  Objectives
 
-- 📈 Analyze Revenue, Expenses & Profit
-- 🌍 Compare Regional Performance
-- 📦 Analyze Product Performance
-- 💳 Monitor Payment Methods
-- 📊 Build an Interactive Business Dashboard
-- 📌 Support Data-Driven Decision Making
+-  Analyze Revenue, Expenses & Profit
+-  Compare Regional Performance
+-  Analyze Product Performance
+-  Monitor Payment Methods
+-  Build an Interactive Business Dashboard
+-  Support Data-Driven Decision Making
 
 ---
 
-# 🛠️ Tools & Technologies
+#  Tools & Technologies
 
 | Tool | Purpose |
 |------|----------|
@@ -49,40 +49,40 @@ It enables users to analyze **Revenue, Expenses, Profit, Regional Performance, P
 
 ---
 
-# 📊 Key Performance Indicators
+#  Key Performance Indicators
 
-- 💰 Total Revenue
-- 💸 Total Expenses
-- 📈 Total Profit
-- 📦 Product Performance
-- 🌍 Regional Analysis
-- 💳 Payment Analysis
-
----
-
-# ✨ Dashboard Features
-
-✅ Interactive Navigation
-
-✅ KPI Cards
-
-✅ Dynamic Filters & Slicers
-
-✅ Revenue Analysis
-
-✅ Expense Analysis
-
-✅ Profit Analysis
-
-✅ Regional Analysis
-
-✅ Product Analysis
-
-✅ Payment Analysis
+-  Total Revenue
+-  Total Expenses
+-  Total Profit
+-  Product Performance
+-  Regional Analysis
+-  Payment Analysis
 
 ---
 
-# 📸 Dashboard Preview
+#  Dashboard Features
+
+Interactive Navigation
+
+KPI Cards
+
+Dynamic Filters & Slicers
+
+Revenue Analysis
+
+Expense Analysis
+
+Profit Analysis
+
+Regional Analysis
+
+Product Analysis
+
+Payment Analysis
+
+---
+
+# Dashboard Preview
 
 <table>
 
@@ -90,7 +90,7 @@ It enables users to analyze **Revenue, Expenses, Profit, Regional Performance, P
 
 <td align="center">
 
-<b>🏠 Home</b>
+<b> Home</b>
 
 <br><br>
 
@@ -100,7 +100,7 @@ It enables users to analyze **Revenue, Expenses, Profit, Regional Performance, P
 
 <td align="center">
 
-<b>📊 Dashboard</b>
+<b> Dashboard</b>
 
 <br><br>
 
@@ -114,7 +114,7 @@ It enables users to analyze **Revenue, Expenses, Profit, Regional Performance, P
 
 <td align="center">
 
-<b>💰 Financial Analysis</b>
+<b> Financial Analysis</b>
 
 <br><br>
 
@@ -124,7 +124,7 @@ It enables users to analyze **Revenue, Expenses, Profit, Regional Performance, P
 
 <td align="center">
 
-<b>🌍 Regional Analysis</b>
+<b> Regional Analysis</b>
 
 <br><br>
 
@@ -138,7 +138,7 @@ It enables users to analyze **Revenue, Expenses, Profit, Regional Performance, P
 
 <td align="center">
 
-<b>📦 Product Analysis</b>
+<b> Product Analysis</b>
 
 <br><br>
 
@@ -148,7 +148,7 @@ It enables users to analyze **Revenue, Expenses, Profit, Regional Performance, P
 
 <td align="center">
 
-<b>💳 Payment Analysis</b>
+<b> Payment Analysis</b>
 
 <br><br>
 
@@ -162,7 +162,7 @@ It enables users to analyze **Revenue, Expenses, Profit, Regional Performance, P
 
 ---
 
-# 📂 Dataset
+#  Dataset
 
 The dataset contains business financial records including:
 
@@ -176,19 +176,19 @@ The dataset contains business financial records including:
 
 ---
 
-# 📥 Project Files
+#  Project Files
 
-📁 **Dashboard**
+ **Dashboard**
 
 `Dashboard/Final_Project.pbix`
 
-📁 **Dataset**
+ **Dataset**
 
 `Dataset/powerbi_finance_dataset_1200_rows.csv`
 
 ---
 
-# 🚀 How to Run
+#  How to Run
 
 1. Download or Clone this repository.
 2. Open **Final_Project.pbix** using Microsoft Power BI Desktop.
@@ -198,7 +198,7 @@ The dataset contains business financial records including:
 
 ---
 
-# 📁 Repository Structure
+#  Repository Structure
 
 ```text
 Financial-Performance-Dashboard-PowerBI
@@ -222,42 +222,42 @@ Financial-Performance-Dashboard-PowerBI
 
 ---
 
-# 💡 Project Highlights
+#  Project Highlights
 
-⭐ Interactive Power BI Dashboard
+ Interactive Power BI Dashboard
 
-⭐ Dynamic KPI Analysis
+ Dynamic KPI Analysis
 
-⭐ Business Intelligence Reporting
+ Business Intelligence Reporting
 
-⭐ Power Query Data Cleaning
+ Power Query Data Cleaning
 
-⭐ DAX Calculations
+ DAX Calculations
 
-⭐ Interactive Navigation
+ Interactive Navigation
 
 ---
 
-# 👨‍💻 Developed By
+#  Developed By
 
 ## Shivraj Mansing Patil
 
-**🎯 Aspiring Data Analyst**
+** Aspiring Data Analyst**
 
-📧 **Email:** shivrajpatil797@gmail.com
+ **Email:** shivrajpatil797@gmail.com
 
-💼 **LinkedIn:**  
+ **LinkedIn:**  
 https://www.linkedin.com/in/shivraj-patil-14a04438a
 
-🐙 **GitHub:**  
+ **GitHub:**  
 https://github.com/shivrajpatil797-web
 
 ---
 
 <div align="center">
 
-### ⭐ If you found this project useful, don't forget to Star this repository!
+###  If you found this project useful, don't forget to Star this repository!
 
-**Thank you for visiting! ❤️**
+**Thank you for visiting! **
 
 </div>
